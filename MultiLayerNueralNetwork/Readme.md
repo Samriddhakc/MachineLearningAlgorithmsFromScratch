@@ -14,7 +14,7 @@ Accuracy on test set: 100% , F1 score:1, recall: 1, precision: 1
 Using the iris dataset, the results are as follows: 
 
 <p float="left">
- <img title="title-1" src="https://user-images.githubusercontent.com/26017262/63597810-44b02a80-c58c-11e9-9448-f0e75b1314c5.png"  width="400" />                                                 <img src="https://user-images.githubusercontent.com/26017262/63597834-52fe4680-c58c-11e9-80ac-0c1c7f4964ea.png" title="title-2" width="400" /> 
+ <img title="title-1" src="https://user-images.githubusercontent.com/26017262/63597810-44b02a80-c58c-11e9-9448-f0e75b1314c5.png"  width="300" />                                                 <img src="https://user-images.githubusercontent.com/26017262/63597834-52fe4680-c58c-11e9-80ac-0c1c7f4964ea.png" title="title-2" width="300" /> 
 </p>
 
 train to test split 134:66. No of Hidden neurons:100
