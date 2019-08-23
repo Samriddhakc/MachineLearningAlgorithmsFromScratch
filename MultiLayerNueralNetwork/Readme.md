@@ -1,4 +1,4 @@
-This project is an attempt to make a nueral network with 1 hidden layer from scatch using numpy and some other libraries and without using explicit deep learning framework. 
+This project is an attempt to make a nueral network with 1 hidden layer from scatch using numpy and some other libraries without using explicitly deep learning framework. 
 
 For sanity check, with a dummy generated dataset with two labels the results are as follows: 
 
