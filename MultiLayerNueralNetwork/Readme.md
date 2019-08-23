@@ -4,9 +4,7 @@ For sanity check, with a dummy generated dataset with two labels the results are
 
  Data:
  
- ![alt text](https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png =100*20)
- 
-  ![alt text](https://user-images.githubusercontent.com/26017262/63593129-488a7f80-c581-11e9-9f82-a72aee501093.png =100*20)
+ <img src="https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png" width="200" height="20" />
  
 
 Throughout the project, I implement the gradient descent and backpropagation algoritm correctly. Also, loss functions such as  relu, sigmoid, L2_Loss, and gradient descent algos such as rmsprop, adam, and gradient descent with momentum has been implemented from scratch to compare the results which shows that adam works the best among all of them, as expected. 
