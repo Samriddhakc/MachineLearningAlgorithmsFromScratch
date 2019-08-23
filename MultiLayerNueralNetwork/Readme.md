@@ -5,7 +5,8 @@ For sanity check, with a dummy generated dataset with two labels the results are
  
 
 <p float="left">
-  <img title="title-1" src="https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png"  width="300" />                                                                                                                                                                                                                           
+  <h1>Title1</h1>
+  <img title="title-1" src="https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png"  width="300" />                                                                                                                                                                                                                          <h1>Title2</h1>
   <img src="https://user-images.githubusercontent.com/26017262/63593129-488a7f80-c581-11e9-9f82-a72aee501093.png" title="title-2" width="300" /> 
   
 </p>
