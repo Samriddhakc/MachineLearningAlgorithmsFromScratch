@@ -2,9 +2,17 @@ This project is an attempt to make a nueral network with 1 hidden layer from sca
 
 For sanity check, with a dummy generated dataset with two labels the results are as follows: 
 
-
+ Data:
+ 
  ![alt text](https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png)
-
+ 
+ Loss graphs:
+ ![alt text](https://user-images.githubusercontent.com/26017262/63593129-488a7f80-c581-11e9-9f82-a72aee501093.png)
+ 
+ 
+ Confusion Matrix: 
+ 
+![alt text](https://user-images.githubusercontent.com/26017262/63593142-550ed800-c581-11e9-845f-1bc38e5a9059.png)
 
 Throughout the project, I implement the gradient descent and backpropagation algoritm correctly. Also, loss functions such as  relu, sigmoid, L2_Loss, and gradient descent algos such as rmsprop, adam, and gradient descent with momentum has been implemented from scratch to compare the results which shows that adam works the best among all of them, as expected. 
 
