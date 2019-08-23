@@ -6,8 +6,8 @@ For sanity check, with a dummy generated dataset with two labels the results are
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26017262/63592934-ca2ddd80-c580-11e9-9f44-69c392ff976f.png "title-1" width="100" />
-  <img src="](https://user-images.githubusercontent.com/26017262/63593129-488a7f80-c581-11e9-9f82-a72aee501093.png " width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/26017262/63593129-488a7f80-c581-11e9-9f82-a72aee501093.png" "title-2" width="100" /> 
+  
 </p>
 
 Throughout the project, I implement the gradient descent and backpropagation algoritm correctly. Also, loss functions such as  relu, sigmoid, L2_Loss, and gradient descent algos such as rmsprop, adam, and gradient descent with momentum has been implemented from scratch to compare the results which shows that adam works the best among all of them, as expected. 
