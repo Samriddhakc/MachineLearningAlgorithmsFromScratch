@@ -17,6 +17,6 @@ Results:
 Results: 
 
 <p float="left">
-   <img width="376" alt="BeforeSeparation" src="https://user-images.githubusercontent.com/26017262/70012571-c0822180-1542-11ea-82be-0f94be9f5487.png">
-  <img width="496" alt="LargeMarginClassifer" src="https://user-images.githubusercontent.com/26017262/70012605-d263c480-1542-11ea-8332-277057a0a248.png">
+   <img width="200" alt="BeforeSeparation" src="https://user-images.githubusercontent.com/26017262/70012571-c0822180-1542-11ea-82be-0f94be9f5487.png">
+  <img width="200" alt="LargeMarginClassifer" src="https://user-images.githubusercontent.com/26017262/70012605-d263c480-1542-11ea-8332-277057a0a248.png">
 </p>
